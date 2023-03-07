@@ -1,1 +1,1 @@
-My second readme
+I am an SE student
